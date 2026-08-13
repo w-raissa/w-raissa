@@ -1,4 +1,4 @@
-<div align="center"> <!-- ── ANIMATED HEADER SVG ── --> <img src="./header.svg" width="100%" alt="Raïssa Wokmeni"/> <br/> <!-- ── TYPING ANIMATION ── --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3200&pause=1200&color=2D6A4F&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40+ENSPY;Building+technology+with+purpose+%E2%80%94;IoT+%C2%B7+Cloud+%C2%B7+Full-Stack+%C2%B7+Cybersecurity;Turning+real-world+problems+into+elegant+systems." alt="Typing SVG" /> </a>
+<div align="center"> <!-- ── ANIMATED HEADER SVG ── --> <img src="./header.svg" width="100%" alt="Raïssa"/> <br/> <!-- ── TYPING ANIMATION ── --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3200&pause=1200&color=2D6A4F&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40;Building+technology+with+purpose+%E2%80%94;IoT+%C2%B7+Cloud+%C2%B7+Full-Stack+%C2%B7+Cybersecurity;Turning+real-world+problems+into+elegant+systems." alt="Typing SVG" /> </a>
 
 <br/><br/>
 
@@ -9,7 +9,7 @@
 </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=1A4A32&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §01 ABOUT ───────────────────────────────────────────────────────── -->
 ✦ About
 
-I'm Raïssa Wokmeni, a Computer Engineering student at Yaoundé, Cameroon.
+I'm Raïssa, a Computer Engineering student at Yaoundé, Cameroon.
 
 I don't like being limited to one box.
 
