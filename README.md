@@ -1,213 +1,123 @@
-# ✦ RaÏssa
+<div align="center"> <!-- ── ANIMATED HEADER SVG ── --> <img src="./header.svg" width="100%" alt="Raïssa Wokmeni"/> <br/> <!-- ── TYPING ANIMATION ── --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=14&duration=3200&pause=1200&color=2D6A4F&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40+ENSPY;Building+technology+with+purpose+%E2%80%94;IoT+%C2%B7+Cloud+%C2%B7+Full-Stack+%C2%B7+Cybersecurity;Turning+real-world+problems+into+elegant+systems." alt="Typing SVG" /> </a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Software+Engineer+in+the+making;Creative+problem+solver;Building+technology+with+purpose." alt="Typing animation" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <i>Computer Engineering · Software · Cloud · Systems · Innovation</i>
-</p>
+<!-- ── NAV LINKS ── -->
 
-<p align="center">
-  <a href="#about-me">About</a> ·
-  <a href="#what-i-build">What I build</a> ·
-  <a href="#currently-exploring">Exploring</a> ·
-  <a href="#featured-project">Featured project</a> ·
-  <a href="#beyond-code">Beyond code</a>
-</p>
+<a href="#-about">About</a> ·  <a href="#%EF%B8%8F-what-i-build">What I Build</a> ·  <a href="#-currently-exploring">Exploring</a> ·  <a href="#-featured-project">WaterPaid</a> ·  <a href="#-github">GitHub</a> ·  <a href="#-beyond-code">Beyond Code</a>
 
----
+</div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=1A4A32&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §01 ABOUT ───────────────────────────────────────────────────────── -->
+✦ About
 
-## ABOUT ME
-
-I'm **Raïssa**, a Computer Engineering student at, passionate about understanding how technology works — and, more importantly, what we can build with it.
-
-I enjoy moving between different worlds of technology: from **software engineering and backend systems** to **IoT, distributed systems, cloud computing and AI**.
+I'm Raïssa Wokmeni, a Computer Engineering student at Yaoundé, Cameroon.
 
 I don't like being limited to one box.
 
-I like **learning, experimenting, connecting ideas and turning real-world problems into technological solutions.**
+My work lives at the intersection of software engineering, IoT systems, cloud computing and applied AI — always driven by one question:
 
-> **Building technology with purpose.**
+What real problem can this technology solve?
 
----
+I build things that matter. Not just to graduate — but because I believe technology can transform Africa.
 
-## WHAT I BUILD
+<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §02 WHAT I BUILD ───────────────────────────────────────────────────────── -->
+⚙️ What I Build
+<div align="center">
+                     ┌─ SOFTWARE ──── NETWORKS ─── IoT ─┐
+                     │                                   │
+ UNDERSTAND PROBLEM ──▶  DESIGN SYSTEM  ──▶  BUILD  ──▶  IMPACT
+                     │                                   │
+                     └─── AI ─────── CLOUD ─── SECURITY ─┘
+</div> <br/> <div align="center">
+Domain	Focus
+🏗️ Software Architecture	Hexagonal, microservices, clean systems
+📡 IoT & Embedded Systems	LoRaWAN, Arduino, edge computing
+☁️ Cloud & DevOps	Distributed systems, containers, pipelines
+🌐 Web & Backend	Full-stack, REST APIs, real-time systems
+🤖 Applied AI	Generative AI integration, ML basics
+🔐 Cybersecurity & Networks	Cisco, routing, system hardening
+</div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §03 CURRENTLY EXPLORING ───────────────────────────────────────────────────────── -->
+🔭 Currently Exploring
+<div align="center">
 
-```text
-        IDEAS
-          │
-          ▼
-   ┌───────────────┐
-   │  UNDERSTAND   │
-   │   THE PROBLEM │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │    DESIGN     │
-   │    SYSTEM     │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │     BUILD     │
-   │    & TEST     │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │    IMPACT     │
-   └───────────────┘
-```
+Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
 
-I particularly enjoy projects where **software meets a real problem**.
+</div>
 
-Some of the areas I explore:
+The goal is never just more technologies. The goal is to understand how to build better systems.
 
-* 🏗️ Software Engineering & Architecture
-* ☁️ Cloud Computing & Distributed Systems
-* 🌐 Web & Backend Development
-* 📡 IoT & Embedded Systems
-* 🤖 AI & Big Data
-* 🔐 Cybersecurity
-* 🧩 Systems & Infrastructure
+<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §04 TECHNICAL SKILLS ───────────────────────────────────────────────────────── -->
+⚡ Technical World
 
----
+Languages
 
-## CURRENTLY EXPLORING
+<p> <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,bash&theme=dark" /> </p>
 
-<p align="center">
+Web & Backend
 
-`Cloud Architecture` · `DevOps` · `Distributed Systems` · `Big Data`
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,spring,fastapi,nodejs,tailwind&theme=dark" /> </p>
 
-</p>
+Data & Infrastructure
 
-I'm currently deepening my understanding of how modern systems are designed, deployed, scaled and connected.
+<p> <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,docker,linux,git,github&theme=dark" /> </p>
 
-The goal isn't simply to learn more technologies.
+IoT & Embedded
 
-**It's to understand how to build better systems.**
+<p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /> &nbsp; <code>LoRaWAN</code> &nbsp; <code>ChirpStack</code> &nbsp; <code>RAK3172</code> &nbsp; <code>MQTT</code> </p> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §05 FEATURED PROJECT — WATERPAID ───────────────────────────────────────────────────────── -->
+💧 Featured Project
+<div align="center">
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   💧  W A T E R P A I D                                │
+│   ─────────────────────────────────────────             │
+│   Smart Prepaid Water Metering via IoT                  │
+│                                                         │
+│   🏆  1st Prize — AFENSPY Innovation Competition        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</div>
 
----
+The problem: Camwater agents spent entire days manually reading meters — generating losses, fraud, and unequal access to clean water in rural areas.
 
-## ⚡ TECHNICAL WORLD
+The idea:
 
-### Languages
+What if paying for water could be as simple as buying airtime?
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp,bash" />
-</p>
+What we built: A connected prepaid water meter. Households purchase water credit via Mobile Money (Orange Money / MTN MoMo). No manual intervention. No agent. No waiting.
 
-### Web & Backend
+Stack: Arduino · LoRaWAN · RAK3172 · ChirpStack · Flow Sensors · Orange Money API
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,django,fastapi,tailwind" />
-</p>
+Why it matters: This is what I enjoy most — using technology to solve a concrete problem in a local context, with global scalability in mind.
 
-### Data & Infrastructure
+<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §06 GITHUB STATS ───────────────────────────────────────────────────────── -->
+📊 GitHub
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=raissa-wokmeni&show_icons=true&theme=dark&hide_border=true&bg_color=0F1A14&title_color=4A9970&icon_color=2D6A4F&text_color=C8D4BE&include_all_commits=true&count_private=true" alt="GitHub Stats"/> &nbsp;&nbsp; <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissa-wokmeni&layout=compact&theme=dark&hide_border=true&bg_color=0F1A14&title_color=4A9970&text_color=C8D4BE&langs_count=6" alt="Top Languages"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raissa-wokmeni&theme=dark&hide_border=true&background=0F1A14&ring=2D6A4F&fire=4A9970&currStreakLabel=4A9970&sideLabels=C8D4BE&currStreakNum=F0EBE0&sideNums=F0EBE0&dates=7A8C80" alt="GitHub Streak"/> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §07 BEYOND CODE ───────────────────────────────────────────────────────── -->
+🌿 Beyond Code
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,kafka,mongodb,docker,linux,git,github" />
-</p>
+Engineering requires more than technical skills.
 
-### IoT & Systems
+	
+📖 Reading	Discovering ideas and perspectives that reshape how I think
+🎤 Leadership	Learning how to influence, present, and bring people together
+🚀 Entrepreneurship	Turning ideas into something tangible and impactful
+🍰 Pastry making	Because creativity doesn't always need a keyboard
+🎵 Music	Especially R&B — sounds that make me slow down and feel
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+Curiosity, creativity, communication and the courage to experiment matter too.
 
-<p align="center">
-  <i>And yes... I'm always adding something new to this list.</i>
-</p>
+<br/> <!-- ───────────────────────────────────────────────────────── §08 MINDSET ───────────────────────────────────────────────────────── -->
+🌱 Mindset
+<div align="center">
+     Learn        ──▶        Build        ──▶        Ship
+       ↑                                               ↓
+       └──────────── Reflect  ◀──  Fail  ◀── Iterate ─┘
+</div>
 
----
-
-# FEATURED PROJECT
-
-## 💧 WaterPaid
-
-> **Making prepaid water access possible in environments where internet connectivity cannot be taken for granted.**
-
-WaterPaid is an IoT solution designed around a simple idea:
-
-**What if paying for water could be as simple as buying airtime?**
-
-The project combines:
-
-`Arduino` · `LoRaWAN` · `RAK3112` · `ChirpStack` · `Flow Sensors` · `Mobile Money`
-
-The project represents something I particularly enjoy:
-
-**using technology to solve a concrete problem in a local context.**
-
----
-
-## 🧪 OTHER THINGS I'VE BUILT
-
-| Project                  | What it represents                           |
-| ------------------------ | -------------------------------------------- |
-| **FinAudit AI**          | AI · Financial analysis · Risk detection     |
-| **XCCM**                 | Software engineering · Document systems      |
-| **USSD Gateway**         | Distributed systems · Redis · Spring WebFlux |
-| **Enterprise Directory** | Backend · Kafka · Redis · PostgreSQL         |
-| **Java Messenger**       | Networking · Netty · PostgreSQL              |
-| **Smart Vision**         | Web · AI · Django · Next.js                  |
-
-> Each project is a piece of the engineer I'm becoming.
-
----
-
-# BEYOND CODE
-
-Technology is only one part of who I am.
-
-Outside of code, I enjoy:
-
-📚 **Reading** — discovering new ideas and perspectives
-🎤 **Leadership & communication** — learning how to influence, present and bring people together
-💡 **Entrepreneurship** — turning ideas into something tangible
-🥐 **Pastry making** — because creativity doesn't always need a keyboard
-🎶 **Music** — especially R&B and sounds that make me slow down
-
-I believe engineering requires more than technical skills.
-
-**Curiosity, creativity, communication and the courage to experiment matter too.**
-
----
-
-# 🌱 MY MINDSET
-
-```text
-Learn        →        Build        →        Fail
-   ↑                                      ↓
-   └──────────── Reflect ← Iterate ───────┘
-```
-
-I'm still learning.
-
-I'm still experimenting.
-
-I'm still figuring out what kind of engineer I want to become.
+I'm still learning. I'm still experimenting. I'm still figuring out what kind of engineer I want to become.
 
 And that's exactly what makes the journey interesting.
 
----
+<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── FOOTER ───────────────────────────────────────────────────────── --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1A4A32&height=120&section=footer&text=Building+technology+with+purpose.&fontSize=16&fontColor=F0EBE0&animation=fadeIn&fontAlignY=65" width="100%" /> <br/> <a href="https://www.linkedin.com/in/raissa-wokmeni/"> <img src="https://img.shields.io/badge/LinkedIn-Raïssa_Wokmeni-1A4A32?style=for-the-badge&logo=linkedin&logoColor=F0EBE0" /> </a> &nbsp; <a href="mailto:raissa.wokmeni@enspy.cm"> <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=F0EBE0" /> </a> &nbsp; <a href="#"> <img src="https://img.shields.io/badge/Portfolio-raissawokmeni.com-4A9970?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 
-<p align="center">
+<br/><br/>
 
-### ✦ Building technology with purpose.
-
-<sub>Computer Engineering Student · ENSPY · Cameroon 🇨🇲</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
+<sub> <code>Computer Engineering Student · Yaoundé, Cameroun 🇨🇲</code> </sub> </div>
