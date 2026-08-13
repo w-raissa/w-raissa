@@ -95,7 +95,7 @@
 <!-- === TEXT === -->
 <!-- Eyebrow label -->
 <text x="450" y="85" text-anchor="middle"
-  font-family="Courier New, monospace" font-size="10"
+  font-family="Lato, monospace" font-size="10"
   letter-spacing="5" fill="#2D6A4F" opacity="0">
   COMPUTER ENGINEERING · YAOUNDÉ · CAMEROUN
   <animate attributeName="opacity" values="0;0.8" dur="1s" begin="0.5s" fill="freeze"/>
@@ -103,15 +103,15 @@
 
 <!-- Name - serif elegant -->
 <text x="450" y="148" text-anchor="middle"
-  font-family="Georgia, Times New Roman, serif" font-size="58"
+  font-family="Poppins, sans serif" font-size="58"
   font-weight="700" fill="#F0EBE0" opacity="0">
-  Raïssa <tspan font-style="italic" fill="#4A9970">Wokmeni</tspan>
+  Raïssa
   <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.8s" fill="freeze"/>
 </text>
 
 <!-- Role -->
 <text x="450" y="182" text-anchor="middle"
-  font-family="Georgia, serif" font-size="14"
+  font-family="Lato, sans serif" font-size="14"
   font-style="italic" fill="#7A8C80" opacity="0">
   Engineer in the making · Solution Architect · Impact Builder
   <animate attributeName="opacity" values="0;1" dur="1s" begin="1.1s" fill="freeze"/>
@@ -119,7 +119,7 @@
 
 <!-- Tagline -->
 <text x="450" y="248" text-anchor="middle"
-  font-family="Courier New, monospace" font-size="11"
+  font-family="Poppins, monospace" font-size="11"
   letter-spacing="6" fill="#1A4A32" opacity="0">
   ✦ LEARNING · BUILDING · LEADING ✦
   <animate attributeName="opacity" values="0;1" dur="1s" begin="1.4s" fill="freeze"/>
