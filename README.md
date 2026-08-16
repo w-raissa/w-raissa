@@ -10,13 +10,9 @@
 ✦ About
 
 I'm Raïssa, a Computer Engineering student at Yaoundé, Cameroon.
-
 I don't like being limited to one box.
-
 My work lives at the intersection of software engineering, IoT systems, cloud computing and applied AI — always driven by one question:
-
 What real problem can this technology solve?
-
 I build things that matter. Not just to graduate — but because I believe technology can transform Africa.
 
 <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §02 WHAT I BUILD ───────────────────────────────────────────────────────── -->
@@ -27,6 +23,7 @@ I build things that matter. Not just to graduate — but because I believe techn
  UNDERSTAND PROBLEM ──▶  DESIGN SYSTEM  ──▶  BUILD  ──▶  IMPACT
                      │                                   │
                      └─── AI ─────── CLOUD ─── SECURITY ─┘
+	
 </div> <br/> <div align="center">
 Domain	Focus
 🏗️ Software Architecture	Hexagonal, microservices, clean systems
@@ -63,48 +60,10 @@ Data & Infrastructure
 IoT & Embedded
 
 <p> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /> &nbsp; <code>LoRaWAN</code> &nbsp; <code>ChirpStack</code> &nbsp; <code>RAK3172</code> &nbsp; <code>MQTT</code> </p> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §05 FEATURED PROJECT — WATERPAID ───────────────────────────────────────────────────────── -->
-💧 Featured Project
-<div align="center">
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   💧  W A T E R P A I D                                │
-│   ─────────────────────────────────────────             │
-│   Smart Prepaid Water Metering via IoT                  │
-│                                                         │
-│   🏆  1st Prize — AFENSPY Innovation Competition        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-</div>
-
-The problem: Camwater agents spent entire days manually reading meters — generating losses, fraud, and unequal access to clean water in rural areas.
-
-The idea:
-
-What if paying for water could be as simple as buying airtime?
-
-What we built: A connected prepaid water meter. Households purchase water credit via Mobile Money (Orange Money / MTN MoMo). No manual intervention. No agent. No waiting.
-
-Stack: Arduino · LoRaWAN · RAK3172 · ChirpStack · Flow Sensors · Orange Money API
-
-Why it matters: This is what I enjoy most — using technology to solve a concrete problem in a local context, with global scalability in mind.
-
-<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §06 GITHUB STATS ───────────────────────────────────────────────────────── -->
+<!-- ───────────────────────────────────────────────────────── §06 GITHUB STATS ───────────────────────────────────────────────────────── -->
 📊 GitHub
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=raissa-wokmeni&show_icons=true&theme=dark&hide_border=true&bg_color=0F1A14&title_color=4A9970&icon_color=2D6A4F&text_color=C8D4BE&include_all_commits=true&count_private=true" alt="GitHub Stats"/> &nbsp;&nbsp; <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissa-wokmeni&layout=compact&theme=dark&hide_border=true&bg_color=0F1A14&title_color=4A9970&text_color=C8D4BE&langs_count=6" alt="Top Languages"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=raissa-wokmeni&theme=dark&hide_border=true&background=0F1A14&ring=2D6A4F&fire=4A9970&currStreakLabel=4A9970&sideLabels=C8D4BE&currStreakNum=F0EBE0&sideNums=F0EBE0&dates=7A8C80" alt="GitHub Streak"/> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §07 BEYOND CODE ───────────────────────────────────────────────────────── -->
-🌿 Beyond Code
-
-Engineering requires more than technical skills.
-
-	
-📖 Reading	Discovering ideas and perspectives that reshape how I think
-🎤 Leadership	Learning how to influence, present, and bring people together
-🚀 Entrepreneurship	Turning ideas into something tangible and impactful
-🍰 Pastry making	Because creativity doesn't always need a keyboard
-🎵 Music	Especially R&B — sounds that make me slow down and feel
-
-Curiosity, creativity, communication and the courage to experiment matter too.
-
-<br/> <!-- ───────────────────────────────────────────────────────── §08 MINDSET ───────────────────────────────────────────────────────── -->
+<!-- ───────────────────────────────────────────────────────── §08 MINDSET ───────────────────────────────────────────────────────── -->
 🌱 Mindset
 <div align="center">
      Learn        ──▶        Build        ──▶        Ship
