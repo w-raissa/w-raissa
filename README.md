@@ -4,8 +4,7 @@
 
 <!-- ── NAV LINKS ── -->
 
-<a href="#-about">About</a> ·  <a href="#%EF%B8%8F-what-i-build">What I Build</a> ·  <a href="#-currently-exploring">Exploring</a> ·  <a href="#-featured-project">WaterPaid</a> ·  <a href="#-github">GitHub</a> ·  <a href="#-beyond-code">Beyond Code</a>
-
+<a href="#-about">About</a> ·  <a href="#%EF%B8%8F-what-i-build">What I Build</a> ·  <a href="#-currently-exploring">Exploring</a> ·  <a href="#-github">GitHub</a> 
 </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=1A4A32&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── §01 ABOUT ───────────────────────────────────────────────────────── -->
 ✦ About
 
@@ -75,8 +74,8 @@ I'm still learning. I'm still experimenting. I'm still figuring out what kind of
 
 And that's exactly what makes the journey interesting.
 
-<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/> <!-- ───────────────────────────────────────────────────────── FOOTER ───────────────────────────────────────────────────────── --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1A4A32&height=120&section=footer&text=Building+technology+with+purpose.&fontSize=16&fontColor=F0EBE0&animation=fadeIn&fontAlignY=65" width="100%" /> <br/> <a href="https://www.linkedin.com/in/raissa-wokmeni/"> <img src="https://img.shields.io/badge/LinkedIn-Raïssa_Wokmeni-1A4A32?style=for-the-badge&logo=linkedin&logoColor=F0EBE0" /> </a> &nbsp; <a href="mailto:raissa.wokmeni@enspy.cm"> <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=F0EBE0" /> </a> &nbsp; <a href="#"> <img src="https://img.shields.io/badge/Portfolio-raissawokmeni.com-4A9970?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
-
-<br/><br/>
+<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2019&height=1&width=100%" /> <br/>
+<!-- ───────────────────────────────────────────────────────── FOOTER ───────────────────────────────────────────────────────── --> 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1A4A32&height=120&section=footer&text=Building+technology+with+purpose.&fontSize=16&fontColor=F0EBE0&animation=fadeIn&fontAlignY=65" width="100%" /> <br/>  &nbsp; <a href="mailto:raissa.wokmeni@enspy.cm"> <img src="https://img.shields.io/badge/Email-Contact-2D6A4F?style=for-the-badge&logo=gmail&logoColor=F0EBE0" /> </a> &nbsp><br/>
 
 <sub> <code>Computer Engineering Student · Yaoundé, Cameroun 🇨🇲</code> </sub> </div>
